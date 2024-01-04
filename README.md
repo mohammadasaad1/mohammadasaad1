@@ -1,4 +1,4 @@
-<img src = "./img1" />
+<img src = "img 1" />
 <h1 align="center">Hi 👋, I'm Mohammad Asaad</h1>
 <h3 align="center">A passionate Full-Stack developer from Palestine</h3>
 
