@@ -1,5 +1,5 @@
 
-<img align = "center" alt = "coding" width = "100" src = "YE6OJA.gif" />
+<img align = "center" alt = "coding" width = "100%" src = "g.gif" />
 
 <h1 align="center">Hello there 👋, I'm Mohammad Asaad</h1>
 <br/>
