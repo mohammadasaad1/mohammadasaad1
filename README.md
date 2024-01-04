@@ -1,4 +1,6 @@
 
+<img align = "center" alt = "coding" width = "100" src = "YE6OJA.gif" />
+
 <h1 align="center">Hello there 👋, I'm Mohammad Asaad</h1>
 <br/>
 <h3 align="center">A passionate Full-Stack developer from Palestine</h3>
