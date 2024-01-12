@@ -8,9 +8,6 @@
 <img align = "right" alt = "coding1" width = "400" src = "img1.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadasaad1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadasaad1" /> </p>
 
-- 📫 How to reach me **h059866@gmail.com**
-
-- ⚡ Fun fact **:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
