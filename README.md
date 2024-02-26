@@ -68,6 +68,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohammadasaad1/mohammadasaad1/output/snake.svg" alt="Snake animation" />
 
 ###
