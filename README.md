@@ -68,5 +68,17 @@
 
 <br clear="both">
 
+- 🔭 I’m currently working on a new project .
+  
+
+- 🌱 I’m currently learning .  
+  
+
+- ❓ Ask me about anything .
+  
+
+- ⚡ Fun fact: :\ .
+
+
 
 ###
